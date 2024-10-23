@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserRegistration</string>
+    <string name="str">Регистрация</string>
+    <string name="email">Введите email</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="button">Зарегестрироваться</string>
+    <string name="authorization">Войдите в аккаунт</string>
+    <string name="Login">Войти</string>
+    <string name="link_to_reg">Зарегестрироваться</string>
+    <string name="link_to_auth">Войти</string>
+    <string name="products">Товары</string>
+    <string name="button_for_view">Посмотреть</string>
+    <string name="button_for_exit">Вернуться</string>
+</resources>
